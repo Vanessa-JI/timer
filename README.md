@@ -1,1 +1,3 @@
-# timer
+# Timer
+
+Timer using threads 
